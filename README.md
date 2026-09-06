@@ -2,8 +2,8 @@
 
 ## 👥 Team Members
 
-* **Moataz Khalid** - [GitHub] | [LinkedIn](https://www.linkedin.com/in/moataz-abdou-770125424?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-* **Omar Ahmed** - [GitHub] (https://github.com/Omarahmed123458) | [LinkedIn](https://www.linkedin.com/in/omar-ahmed-hafez/)
+* **Moataz Khalid** - [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/in/moataz-abdou-770125424)
+* **Omar Ahmed** - [GitHub](https://github.com/Omarahmed123458) | [LinkedIn](https://www.linkedin.com/in/omar-ahmed-hafez/)
 * **Beshoy Shohdy** - [GitHub](https://github.com/beshoy-shohdy/beshoy-shohdy) | [LinkedIn](https://www.linkedin.com/in/beshoy-shohdy-2497b9282/)
 * **Rana Elmaghraby** - [GitHub](https://github.com/RanaElmaghraby) | [LinkedIn](https://www.linkedin.com/in/rana-elmaghraby-8108a5366/)
   
